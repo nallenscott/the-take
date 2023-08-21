@@ -11,15 +11,15 @@ The Take is a series of micro podcasts published on LinkedIn. Episodes are short
 
 ## Episodes
 
-| Episode | Title | Published |
-| ------- | ----- | --------- |
-| 1 | :fire: [Never Push to Prod on Friday!](./episodes/episode-001/) | 2020-07-10 |
-| 2 | :crystal_ball: [Future-Thinking Leads](./episodes/episode-002/) | 2020-07-17 |
-| 3 | :relieved: [Defining Your Self-Worth](./episodes/episode-003/) | 2020-07-24 |
+| # | Title | Published |
+| - | ----- | --------- |
+| 1 | :fire: [Never Push to Prod on Friday!](./episodes/episode-001/) | 2023-07-14 |
+| 2 | :crystal_ball: [Future-Thinking Leads](./episodes/episode-002/) | 2023-07-23 |
+| 3 | :relieved: [Defining Your Self-Worth](./episodes/episode-003/) | 2023-07-30 |
 | 4 | :see_no_evil: [Looks Good to Me](./episodes/episode-004/) | 2020-07-31 |
-| 5 | :military_helmet: [No Candidate Left Behind](./episodes/episode-005/) | 2020-08-07 |
-| 6 | :cloud_with_lightning_and_rain: [Is A.I. a Dark Cloud?](./episodes/episode-006/) | 2020-08-14 |
-| 7 | :joy: [When A.I. Gets Sassy](./episodes/episode-007/) | 2020-08-21 |
+| 5 | :military_helmet: [No Candidate Left Behind](./episodes/episode-005/) | 2023-08-06 |
+| 6 | :cloud_with_lightning_and_rain: [Is A.I. a Dark Cloud?](./episodes/episode-006/) | 2023-08-13 |
+| 7 | :joy: [When A.I. Gets Sassy](./episodes/episode-007/) | 2023-08-21 |
 
 ## License
 
