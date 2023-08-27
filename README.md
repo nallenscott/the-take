@@ -20,6 +20,7 @@ The Take is a series of micro podcasts published on LinkedIn. Episodes are short
 | 5 | :military_helmet: [No Candidate Left Behind](./episodes/episode-005/) | 2023-08-06 |
 | 6 | :cloud_with_lightning_and_rain: [Is A.I. a Dark Cloud?](./episodes/episode-006/) | 2023-08-13 |
 | 7 | :joy: [When A.I. Gets Sassy](./episodes/episode-007/) | 2023-08-21 |
+| 8 | :electric_plug: [Unplugging from the Matrix](./episodes/episode-008/) | 2023-08-27 |
 
 ## License
 
