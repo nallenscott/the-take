@@ -52,4 +52,4 @@ So, as you navigate open source, ask yourself this question: "Am I merely benefi
 
 `[outro]`
 
-**NATE**: I’m Nate Allen, and this has been The Take. Have a wonderful rest of your weekend, and remember, you have the power to unplug. See you next time.
+**NATE**: I’m Nate Allen, and this has been The Take, reminding you to be both a user and a contributor. Have a wonderful rest of your weekend. See you next time.
