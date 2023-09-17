@@ -23,6 +23,7 @@ The Take is a series of micro podcasts published on LinkedIn. Episodes are short
 | 008 | :electric_plug: [Unplugging from the Matrix](./episodes/episode-008/) | 2023-08-27 |
 | 009 | :gift: [Open Source is Not a Gift](./episodes/episode-009/) | 2023-09-03 |
 | 010 | :upside_down_face: [Keep It Simple Stupid](./episodes/episode-010/) | 2023-09-10 |
+| 011 | :camel: [Making a Case for Casing](./episodes/episode-011/) | 2023-09-17 |
 
 ## License
 
